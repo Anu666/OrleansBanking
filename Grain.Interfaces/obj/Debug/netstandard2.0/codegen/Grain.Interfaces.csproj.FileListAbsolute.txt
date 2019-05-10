@@ -1,0 +1,5 @@
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain.Interfaces\bin\Debug\netstandard2.0\Grain.Interfaces.deps.json
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain.Interfaces\bin\Debug\netstandard2.0\Grain.Interfaces.dll
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain.Interfaces\bin\Debug\netstandard2.0\Grain.Interfaces.pdb
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain.Interfaces\obj\Debug\netstandard2.0\codegen\Grain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain.Interfaces\obj\Debug\netstandard2.0\codegen\Grain.Interfaces.AssemblyInfoInputs.cache

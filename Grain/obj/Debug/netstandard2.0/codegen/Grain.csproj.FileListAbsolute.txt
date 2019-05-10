@@ -1,0 +1,13 @@
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\Grain.csprojAssemblyReference.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\Grain.csproj.CoreCompileInputs.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\Grain.AssemblyInfoInputs.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\Grain.AssemblyInfo.cs
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Grain.deps.json
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Grain.dll
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Grain.pdb
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Grain.Interfaces.dll
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Grain.Interfaces.pdb
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\codegen\Grain.csproj.CoreCompileInputs.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\obj\Debug\netstandard2.0\codegen\Grain.AssemblyInfoInputs.cache
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Resources.dll
+C:\Users\anudeep.challa\source\repos\OrleansBanking\Grain\bin\Debug\netstandard2.0\Resources.pdb
